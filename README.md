@@ -1,5 +1,5 @@
 
-<h1 align="center"> Object Memory Address Token Generation  </h1>
+<h1 align="center"> Object Memory Address Token Generation </h1>
 
 
 
@@ -17,7 +17,7 @@ This is important when talking about finding ways of strengthening the security 
 
 ## Overview
 
-The program is a token generator which generates random memory addresses to associate to an object. Because the object can hold anything, objects, their data types, and the information they hold can be harnessed for authentication of any of the above. Because the key generator uses RAM for the addresses, it can be utilized a near-infinite number of times without the same key being generated twice.
+Object Memory Address Token Generation is a token generator which generates random memory addresses to associate to an object. Because the object can hold anything, objects, their data types, and the information they hold can be harnessed for authentication of any of the above. Because the key generator uses RAM for the addresses, it can be utilized a near-infinite number of times without the same key being generated twice.
 
 
 ## Program 
